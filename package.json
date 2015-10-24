@@ -1,0 +1,22 @@
+{
+  "name": "addhttp",
+  "version": "1.0.0",
+  "description": "make sure http is at the beginning of a url",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethvincent/addhttp.git"
+  },
+  "author": "sethvincent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sethvincent/addhttp/issues"
+  },
+  "homepage": "https://github.com/sethvincent/addhttp#readme",
+  "devDependencies": {
+    "tape": "^4.2.2"
+  }
+}
